@@ -1,0 +1,19 @@
+{
+  "name": "cloudflare-2020-general-engineering-assignment",
+  "version": "1.0.0",
+  "description": "CloudFlare General Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Liu-c0deb0t/cloudflare-2020-general-engineering-assignment.git"
+  },
+  "author": "Daniel Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Daniel-Liu-c0deb0t/cloudflare-2020-general-engineering-assignment/issues"
+  },
+  "homepage": "https://github.com/Daniel-Liu-c0deb0t/cloudflare-2020-general-engineering-assignment#readme"
+}

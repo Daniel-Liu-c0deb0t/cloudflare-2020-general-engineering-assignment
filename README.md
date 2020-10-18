@@ -1,5 +1,12 @@
 # General Assignment
 
+This is Daniel Liu's completed General Assignment for applying to Cloudflare's summer 2021 internships. Both the required and extra-credit assignments are completed. Visit the following links for a demonstration of the results:
+```
+cloudflare-2020-general.c0deb0t.workers.dev
+cloudflare-2020-general.c0deb0t.workers.dev/links
+```
+(It should be noted that I am usually *not* a Javascript programmer. In fact, I had to self-learn a lot of Javascript and Cloudflare workers for this task. I am more interested in systems programming and building high-performance software with Rust or another similar language.)
+
 ## What is it?
 
 In this exercise, you'll deploy a Cloudflare Workers project in order to build a linktree-style website. Below is a list of requirements and success criteria for your finished project.

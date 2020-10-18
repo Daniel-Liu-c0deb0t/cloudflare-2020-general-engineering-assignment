@@ -1,0 +1,6 @@
+name = "cloudflare-2020-general"
+type = "webpack"
+account_id = "a5f576bf87284b79965499802b8dbcfe"
+workers_dev = true
+route = ""
+zone_id = ""
