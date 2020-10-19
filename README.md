@@ -1,6 +1,6 @@
 # General Assignment
 
-This is Daniel Liu's completed General Assignment for applying to Cloudflare's summer 2021 internships. Both the required and extra-credit assignments are completed. Visit the following links for a demonstration of the results:
+This is Daniel Liu's completed General Assignment for applying to Cloudflare's summer 2021 internships. Both the required and extra-credit assignments are completed (the Systems Assignment is [here](https://github.com/Daniel-Liu-c0deb0t/cloudflare-2020-systems-engineering-assignment)). Visit the following links for a demonstration of the results:
 ```
 cloudflare-2020-general.c0deb0t.workers.dev
 cloudflare-2020-general.c0deb0t.workers.dev/links
